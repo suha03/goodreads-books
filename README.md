@@ -3,7 +3,7 @@ suha suliman alswiket
 # Abstract
 The goal of this project is to do basic EDA and visualization , to do Analyzing and Recommending Books ,  'prediction of book rating' and use regression to predict that the most entertaining thing you do in your free time.
 # Design
-based on the data from Goodreads-books  
+This project is one of the T5 Data Science BootCamp requirements. based on the data from Goodreads-books  
 I well answer to these questions 
 
 - How many reviews on books ?
