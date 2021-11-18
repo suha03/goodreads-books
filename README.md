@@ -47,4 +47,5 @@ predictions :
 - R^2 for train set : 75%
 - Adjusted R-Squared for training set : 75%
 
-
+# .
+https://github.com/suha03/goodreads-books/blob/main/presentation/goodreads.pdf 
