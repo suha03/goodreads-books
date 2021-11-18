@@ -1,7 +1,13 @@
 # goodreads-books
 suha suliman alswiket
+
+# Who read books ?
+There are 7 billion people in the world , 30% of people read books every day (or most days) and 60% read at least once per week , the most entertaining thing you do in your free time.
+ .
+
 # Abstract
-The goal of this project is to do basic EDA and visualization , to do Analyzing and Recommending Books ,  'prediction of book rating' and use regression to predict that the most entertaining thing you do in your free time.
+The goal of this project is to do basic EDA and visualization , to do Analyzing and Recommending Books ,  'prediction of book reviews' and use regression to predict that
+
 # Design
 This project is one of the T5 Data Science BootCamp requirements. based on the data from Goodreads-books  
 I well answer to these questions 
@@ -11,6 +17,7 @@ I well answer to these questions
 - What is the most language written by ?
 - What is the most rated books ?
 -Who is the Highly rated author ? 
+
 # Data
 To achieve the goal of this study the dataset Goodreads-books will be used. This dataset can be found at https://www.kaggle.com/jealousleopard/goodreadsbooks 
  
@@ -27,11 +34,17 @@ the dataset contains information about books, it contains 11123 rows , 12 column
 - Num_pages 
 - Ratings_count - Total number of ratings the book received.
 - text_reviews_count - Total number of written text reviews the book received
+
 # Tools
-numpy & pandas for data manipulation (EDA)
-matplotlib & seaborn for plotting
-Scikit-learn for modeling 
+- numpy & pandas for data manipulation (EDA)
+- matplotlib & seaborn for plotting
+- Scikit-learn for modeling 
+
 # Algorithm
-sklearn :  Linear Regression & may be logistic Regression 
-# MVP
-the goal of this project is to predict book rating by using regression to predict that
+- sklearn :  Linear Regression & may be logistic Regression 
+predictions :
+- the performance of predicted train set is : 75%
+- R^2 for train set : 75%
+- Adjusted R-Squared for training set : 75%
+
+
