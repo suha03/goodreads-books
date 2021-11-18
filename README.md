@@ -48,4 +48,3 @@ predictions :
 - Adjusted R-Squared for training set : 75%
 
  
-print(presentation/goodreads.pdf)
